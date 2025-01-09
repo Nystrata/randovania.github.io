@@ -18,7 +18,7 @@ Using a real Wii and Wii U console may be favorable if your computer does not ru
   * The Homebrew Channel: [Installation Guide](https://wii.hacks.guide/get-started)    
   * A Network Connection:  
     * **ℹ️ NOTE** It is strongly recommended to use a wired Ethernet connection for the console instead of the console's built-in Wi-Fi if possible. Using Wi-Fi may be more unstable.  
-      Third-party adapters Ethernet using the ASIX AX88772 or AX88772A chipsets can work too, such as [this one](https://www.amazon.com/gp/product/B00MYT47EA/).   
+      Third-party adapters Ethernet using the ASIX AX88772 or AX88772A chipsets can work too.   
   * A Supported Controller:  
     * For consoles with built-in GameCube controller ports, using those ports with a GameCube controller is recommended.  
     * For consoles without built-in GameCube controller ports, using a GameCube Controller Adapter with a GameCube controller is recommended:  
